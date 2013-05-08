@@ -1,0 +1,1 @@
+package Characters {	import flash.display.MovieClip;		/**	 * @author neumeister	 */	public class NorthSheep extends MovieClip {		public function NorthSheep() {		}	}}

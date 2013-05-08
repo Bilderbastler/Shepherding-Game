@@ -1,0 +1,1 @@
+package Characters {	import flash.display.MovieClip;		/**	 * @author neumeister	 */	public class SouthEastDog extends MovieClip {		public function SouthEastDog() {		}	}}

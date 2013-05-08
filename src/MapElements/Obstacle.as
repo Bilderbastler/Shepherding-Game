@@ -1,0 +1,1 @@
+package MapElements {	import flash.display.MovieClip;		/**	 * @author neumeister	 */	public class Obstacle extends MapElement{		public function Obstacle() {					}	}}
